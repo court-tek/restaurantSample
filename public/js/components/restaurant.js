@@ -745,8 +745,8 @@ var Reviews = function (_Component) {
               _react2.default.createElement(
                 "div",
                 { className: "arrows" },
-                _react2.default.createElement("i", { className: "fas fa-arrow-right" }),
-                _react2.default.createElement("i", { className: "fas fa-arrow-left" })
+                _react2.default.createElement("i", { className: "fas fa-arrow-left" }),
+                _react2.default.createElement("i", { className: "fas fa-arrow-right" })
               )
             )
           )
